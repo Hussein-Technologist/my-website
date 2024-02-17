@@ -349,6 +349,7 @@ footer p{
     header{
         padding: 0.1em 2em;
         width: 100%;
+        justify-content: space-evenly;
         background-image:linear-gradient(to right , rgb(0, 0, 70) , black 70%);
     }
     
